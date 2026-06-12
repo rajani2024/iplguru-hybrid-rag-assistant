@@ -1,0 +1,12 @@
+langchain
+llama-index
+chromadb
+mysql-connector-python
+sqlalchemy
+pandas
+numpy
+python-dotenv
+sentence-transformers
+jupyter
+matplotlib
+seaborn
