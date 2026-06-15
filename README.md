@@ -807,7 +807,7 @@ MYSQL_DATABASE=iplguru
 ### Launch Notebook
 
 ```bash
-jupyter notebook notebooks/iplguru-hybrid-rag-assistant.ipynb
+jupyter notebook notebooks/IPLGuru.ipynb
 ```
 
 ---
