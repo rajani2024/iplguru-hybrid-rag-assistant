@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+
+.ipynb_checkpoints/
+
+venv/
+env/
+ENV/
+.venv/
+
+.env
+*.env
+secrets.json
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+*.log
+
+build/
+dist/
+*.egg-info/
+
+# ChromaDB
+chroma/
+chromadb/
+vector_store/
+
+# MySQL dumps
+*.sql
+
+# Large datasets
+data/raw/
+*.zip
